@@ -1,4 +1,4 @@
-![](grafico-de-layout-de-conteudo-de-design-de-site.jpg)
+![](Pink and Purple Gradient Technology Business LinkedIn Banner.png)
 <h1 align="center">Desenvolvedora WEB</h1>
 <h2 align="center">Técnico em Informática - SENAC</h2>
 
