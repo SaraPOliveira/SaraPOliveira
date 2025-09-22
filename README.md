@@ -1,4 +1,4 @@
-![](Pink and Purple Gradient Technology Business LinkedIn Banner.png)
+![](PinkandPurpleGradientTechnologyBusinessLinkedInBanner.png)
 <h1 align="center">Desenvolvedora WEB</h1>
 <h2 align="center">Técnico em Informática - SENAC</h2>
 
