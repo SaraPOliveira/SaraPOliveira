@@ -1,4 +1,4 @@
-![](Banner.png)
+![](Fernweh.png)
 <h1 align="center">Programação</h1>
 <h2 align="center">Cursando Técnico em Informática - SENAC</h2>
 
